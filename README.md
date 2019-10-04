@@ -32,11 +32,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had challenges getting Android Studio to work as I wanted the first time I tried to complete this. I decided to give it another go after getting a lot of emails from CodePath and didn't want to miss out on this course.
+
+Initially, I unknowingly made my project inside another Android Studio project and when commiting it, both of the projects went through.
+
+Glad I stuck with this and learned so much!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Priyanka Mishra]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
